@@ -1,7 +1,7 @@
 using System.Threading.Tasks;
-using TMPro;
 using UnityEngine;
 using UnityEngine.SceneManagement;
+using UnityEngine.UI;
 
 namespace _Project.Scripts.Managers
 {
@@ -16,7 +16,7 @@ namespace _Project.Scripts.Managers
             GameScene
         }
 
-        public static TextMeshProUGUI loadText;
+        public static Text loadText;
         
         #endregion
 
@@ -74,7 +74,7 @@ namespace _Project.Scripts.Managers
                 {
                     await Task.Delay(100);
                     float loadingPercentage = newScene.progress / 0.9f * 100.0f;
-                    //loadText.text = loadingPercentage + "%";
+                    loadText.text = loadingPercentage + "%";
             
             
             

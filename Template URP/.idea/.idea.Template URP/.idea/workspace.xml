@@ -10,6 +10,7 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/_Project/Editor/ProjectSetupToolsMenu.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/_Project/Scripts/Managers/SceneManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Project/Scripts/Scripts Scenes/OnSceneStartBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@3.0.6/Scripts/Runtime/TMP_SpriteAnimator.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$USER_HOME$/Documents/GitHub/Unity-Sandbox-Project/Sandbox - Features/Assets/Features/Project Initilization/Scripts/Loading/LoadingAnimation.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$USER_HOME$/Documents/GitHub/Unity-Sandbox-Project/Sandbox - Features/Assets/Features/Project Initilization/Scripts/SceneManager.cs" root0="SKIP_HIGHLIGHTING" />
@@ -73,7 +74,7 @@
       <workItem from="1670876815364" duration="135000" />
       <workItem from="1670876984513" duration="2667000" />
       <workItem from="1670879690136" duration="3261000" />
-      <workItem from="1670883968413" duration="297000" />
+      <workItem from="1670883968413" duration="2040000" />
     </task>
     <servers />
   </component>
