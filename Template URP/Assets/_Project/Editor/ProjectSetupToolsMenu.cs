@@ -12,7 +12,7 @@ namespace _Project.Editor
         {
             Debug.Log("Setting up the default folders...");
 
-            CreateDirectories("_Project", "Arts", "Resources", "Scripts", "Prefabs", "Data", "Animations", "VFX");
+            CreateDirectories("_Project", "Arts", "Resources", "Scripts", "Prefabs", "Data", "Animations", "VFX", "Scenes");
             CreateDirectories("_Project/Arts", "Sprites", "Materials", "Textures", "Shaders");
             CreateDirectories("_Project/Scripts", "Managers");
 

@@ -9,6 +9,10 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/_Project/Editor/ProjectSetupToolsMenu.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Project/Scripts/Managers/SceneManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@3.0.6/Scripts/Runtime/TMP_SpriteAnimator.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/Documents/GitHub/Unity-Sandbox-Project/Sandbox - Features/Assets/Features/Project Initilization/Scripts/Loading/LoadingAnimation.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/Documents/GitHub/Unity-Sandbox-Project/Sandbox - Features/Assets/Features/Project Initilization/Scripts/SceneManager.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -19,14 +23,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Discover.Launch.Via.Unity": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "settings.editor.selected.configurable": "discord-application"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Discover.Launch.Via.Unity&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;discord-application&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
     <configuration name="UnitTests (batch mode)" type="RunUnityExe" factoryName="Unity Executable">
       <option name="EXE_PATH" value="C:\Program Files\Unity\Hub\Editor\2021.3.9f1\Editor\Unity.exe" />
@@ -67,7 +71,9 @@
       <updated>1670876583733</updated>
       <workItem from="1670876590858" duration="9000" />
       <workItem from="1670876815364" duration="135000" />
-      <workItem from="1670876984513" duration="2134000" />
+      <workItem from="1670876984513" duration="2667000" />
+      <workItem from="1670879690136" duration="3261000" />
+      <workItem from="1670883968413" duration="297000" />
     </task>
     <servers />
   </component>
